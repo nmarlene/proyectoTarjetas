@@ -1,0 +1,9 @@
+.container {
+  flex-direction: row;
+}
+.card-orange {
+  border-radius: 10px 0 0 10px;
+}
+.card-green {
+  border-radius: 0 10px 10px 0;
+}
